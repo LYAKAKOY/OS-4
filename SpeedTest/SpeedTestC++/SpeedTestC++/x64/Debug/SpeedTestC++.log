@@ -1,0 +1,3 @@
+﻿  SpeedTestC++.cpp
+C:\Users\LyaKakoyPC\Desktop\SpeedTestC++\SpeedTestC++\SpeedTestC++.cpp(9,10): warning C4215: нестандартное расширение: long float
+  SpeedTestC++.vcxproj -> C:\Users\LyaKakoyPC\Desktop\SpeedTestC++\x64\Debug\SpeedTestC++.exe
